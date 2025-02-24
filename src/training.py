@@ -100,7 +100,7 @@ def fit(
         # VALIDATION PHASE
         ###################
 
-        model.eval()  # Set the model to evaluation mode
+        model.eval()  # Set the model to evaluation model 
         val_loss = 0.0  # Accumulate validation loss
         correct = 0
         total = 0
