@@ -5,9 +5,10 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Milan B. Toth | 176135 |
+| Richard Nemčovič | 165632 |
+| Szabolcs Bayer | 176810 |
+
 
 ***
 
